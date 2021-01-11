@@ -24,7 +24,7 @@ This web page provides the source code of video slice prototype described in the
   + Server makes the directories named server_base, extracted_img.
   + The base video file and the target video file are created in server_base.
   + The base video file name is base.mp4
-  + The extracted images are created in extracted_img/<Device ID of client>/.
+  + The extracted images are created in extracted_img/\<Device ID of client\>/.
 
 ### packet_manager.py and video_file_manager.py
 Used by client.py and server.py
