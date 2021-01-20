@@ -1,4 +1,4 @@
-# Video slice: A method of image compression and transmission for agricultural systems
+# Video slice: Image compression and transmission for agricultural systems
 
 ## Introduction
 This web page provides the source code of video slice prototype described in the  paper of video slice.
